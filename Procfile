@@ -1,1 +1,0 @@
-web: target/universal/stage/bin/play-todo-postgres -Dhttp.port=$PORT -DapplyEvolutions.default=true
