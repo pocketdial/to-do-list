@@ -1,7 +1,8 @@
 Simple TODO List
 =====================================
 
-This is very simple todo app. Made on Java, Play Framework, H2, EBean, Git.
+This is very simple todo app. Made on Java, Play Framework, H2, eBean, Git.
+The basic model is a Task, so tasks can be created and deleted dynamically. It uses eBean as an ORM to store and retrieve the objects from a database.
 Hosted by Heroku.com
 
 See result: http://pobegushka.ru or http://spisok.herokuapp.com
