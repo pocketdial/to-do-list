@@ -1,5 +1,7 @@
 Simple TODO List
 =====================================
 
-This is simple todo app. Made with Java, Play Framework, H2, EBean, Git. Hosten on Heroku.com
+This is simple todo app. Made on Java, Play Framework, H2, EBean, Git.
+Hosted by Heroku.com
+
 See result: http://pobegushka.ru or http://spisok.herokuapp.com
