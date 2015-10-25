@@ -1,4 +1,5 @@
-This is your new Play application
+Simple TODO List
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This is simple todo app. Made with Java, Play Framework, H2, EBean, Git. Hosten on Heroku.com
+See result: http://pobegushka.ru or http://spisok.herokuapp.com
